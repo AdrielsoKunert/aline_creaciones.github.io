@@ -42,7 +42,7 @@ function crearTarjeta(producto) {
         <div class="col-md-6 col-lg-4">
             <div class="card h-100 ${disponible ? '' : 'card-agotada'}">
                 <div class="img-wrapper">
-                    <img src="${producto.image}" class="card-img-top" alt="${producto.alt || producto.name}" loading="lazy" width="400" height="350">
+                    <img src="${producto.image}" class="card-img-top" alt="${producto.alt || producto.name}" loading="lazy" width="400" height="350" data-id="${producto.id}">
                     ${badgeHtml}
                 </div>
                 <div class="card-body d-flex flex-column p-4">
@@ -95,6 +95,52 @@ function renderizarFiltros() {
     });
 }
 
+function abrirLightbox(producto) {
+    document.getElementById('lightbox-imagen').src = producto.image;
+    document.getElementById('lightbox-imagen').alt = producto.alt || producto.name;
+    document.getElementById('lightbox-nombre').textContent = producto.name;
+    document.getElementById('lightbox-precio').textContent = producto.price;
+
+    const btnWhatsapp = document.getElementById('lightbox-whatsapp');
+    const disponible = producto.disponible !== false;
+    if (disponible) {
+        btnWhatsapp.style.display = 'block';
+        btnWhatsapp.href = armarLinkWhatsapp(producto);
+    } else {
+        btnWhatsapp.style.display = 'none';
+    }
+
+    document.getElementById('lightbox').classList.add('activo');
+    document.body.style.overflow = 'hidden';
+}
+
+function cerrarLightbox() {
+    document.getElementById('lightbox').classList.remove('activo');
+    document.body.style.overflow = '';
+}
+
+function inicializarLightbox() {
+    const overlay = document.getElementById('lightbox');
+    const contenedor = document.getElementById('catalogo');
+
+    contenedor.addEventListener('click', (e) => {
+        const img = e.target.closest('.card-img-top');
+        if (!img) return;
+        const producto = productos.find(p => p.id === Number(img.dataset.id));
+        if (producto) abrirLightbox(producto);
+    });
+
+    document.getElementById('lightbox-cerrar').addEventListener('click', cerrarLightbox);
+
+    overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) cerrarLightbox();
+    });
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') cerrarLightbox();
+    });
+}
+
 async function iniciarCatalogo() {
     const estado = document.getElementById('estado-catalogo');
     try {
@@ -103,6 +149,7 @@ async function iniciarCatalogo() {
         productos = await respuesta.json();
         renderizarFiltros();
         renderizarCatalogo();
+        inicializarLightbox();
     } catch (error) {
         console.error(error);
         estado.textContent = 'No se pudieron cargar los productos. Intentá recargar la página.';
