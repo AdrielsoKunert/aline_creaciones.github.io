@@ -6,7 +6,7 @@
     "price": "₲ 48.500",
     "description": "1 Girasol grande+mini margaritas\nincluye una dedicatoria",
     "whatsapp": "https://wa.me/595975846445",
-    "id": 1,
+    "id": 50,
     "price_value": 48500,
     "category": "girasoles",
     "disponible": true
@@ -588,7 +588,7 @@
     "disponible": true
   },
   {
-    "id": 50,
+    "id": 1,
     "image": "fotos/WhatsApp Image 2026-08-06 at 21.42.05.jpeg",
     "alt": "Girasol amarillo",
     "name": "Girasol amarillo",
