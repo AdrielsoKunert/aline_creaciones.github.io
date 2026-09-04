@@ -1,17 +1,5 @@
 [
   {
-    "image": "fotos/gs_002.jpeg",
-    "alt": "Girasol Grande",
-    "name": "Girasol Grande",
-    "price": "₲ 48.500",
-    "description": "1 Girasol grande+mini margaritas\nincluye una dedicatoria",
-    "whatsapp": "https://wa.me/595975846445",
-    "id": 50,
-    "price_value": 48500,
-    "category": "girasoles",
-    "disponible": true
-  },
-  {
     "image": "fotos/gs_003.jpeg",
     "alt": "Girasol grande",
     "name": "Girasol grande",
@@ -777,6 +765,19 @@
     "description": "rosa del desierto artesanal (eterno)\r\nincluye maceta",
     "whatsapp": "https://wa.me/595975846445",
     "category": "otros",
+    "disponible": true
+  },
+  
+  {
+    "image": "fotos/gs_002.jpeg",
+    "alt": "Girasol Grande",
+    "name": "Girasol Grande",
+    "price": "₲ 48.500",
+    "description": "1 Girasol grande+mini margaritas\nincluye una dedicatoria",
+    "whatsapp": "https://wa.me/595975846445",
+    "id": 50,
+    "price_value": 48500,
+    "category": "girasoles",
     "disponible": true
   }
 ]
