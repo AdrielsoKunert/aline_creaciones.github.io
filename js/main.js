@@ -11,7 +11,8 @@ const NOMBRES_CATEGORIA = {
     'maquillaje': 'Maquillaje',
     'corazones': 'Corazones',
     'bouquets': 'Bouquets',
-    'otros': 'Otros'
+    'otros': 'Otros',
+    'amarillas': 'Flores amarillas'
 };
 
 let productos = [];
