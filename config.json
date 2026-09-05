@@ -1,0 +1,20 @@
+{
+  "empresa": {},
+  "colores": {},
+  "contacto": {},
+  "redes": [],
+  "categorias": {
+    "todos": "Todos",
+    "amarillas": "Flores Amarillas",
+    "girasoles": "Girasoles",
+    "lirios": "Lirios",
+    "rosas-eternas": "Rosas eternas",
+    "individuales": "Individuales",
+    "con-peluche": "Con peluche",
+    "maquillaje": "Maquillaje",
+    "corazones": "Corazones",
+    "bouquets": "Bouquets",
+    "bonsai": "Bonsai",
+    "otros": "Otros"
+  }
+}

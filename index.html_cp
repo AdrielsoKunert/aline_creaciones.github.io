@@ -1,6 +1,3 @@
-
-
-Index · HTML
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -9,13 +6,13 @@ Index · HTML
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aline Creaciones - Catálogo de Rosas Eternas</title>
     <meta name="description" content="Catálogo de rosas eternas, girasoles, lirios y arreglos exclusivos de Aline Creaciones en Hernandarias, Paraguay. Consultá y pedí por WhatsApp.">
- 
+
     <!-- Open Graph / redes sociales -->
     <meta property="og:title" content="Aline Creaciones - Catálogo de Rosas Eternas">
     <meta property="og:description" content="Rosas eternas, girasoles, lirios y arreglos exclusivos. Belleza que perdura para siempre.">
     <meta property="og:image" content="logo.png">
     <meta property="og:type" content="website">
- 
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -25,7 +22,7 @@ Index · HTML
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
- 
+
     <header class="hero-section text-center">
         <div class="container">
             <div class="logo-container mb-4">
@@ -38,14 +35,14 @@ Index · HTML
             </a>
         </div>
     </header>
- 
+
     <main class="container mb-5">
         <div id="filtros" class="filtros"></div>
- 
+
         <div id="estado-catalogo" style="display:none;"></div>
         <div id="catalogo" class="row g-4"></div>
     </main>
- 
+
     <footer class="footer-oscuro pt-5 pb-4">
         <div class="container">
             <div class="row gy-4 justify-content-between">
@@ -53,7 +50,7 @@ Index · HTML
                     <h4 class="footer-marca mb-3">Aline Creaciones</h4>
                     <p class="footer-texto">Especialistas en Rosas Eternas y Arreglos Exclusivos. Belleza que perdura para siempre.</p>
                 </div>
- 
+
                 <div class="col-md-3">
                     <h6 class="footer-titulo mb-3">Contacto</h6>
                     <p class="footer-texto mb-2">
@@ -65,7 +62,7 @@ Index · HTML
                         <a href="https://wa.me/595975846445" target="_blank" rel="noopener" class="footer-link">Atención directa por WhatsApp</a>
                     </p>
                 </div>
- 
+
                 <div class="col-md-4">
                     <h6 class="footer-titulo mb-3">Seguinos</h6>
                     <div class="footer-redes">
@@ -76,16 +73,16 @@ Index · HTML
                     </div>
                 </div>
             </div>
- 
+
             <hr class="footer-linea my-4">
- 
+
             <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center gap-2">
                 <p class="footer-texto small mb-0">&copy; 2026 Aline Creaciones. Todos los derechos reservados.</p>
                 <a href="#" class="footer-link small">Volver arriba <i class="fas fa-arrow-up ms-1"></i></a>
             </div>
         </div>
     </footer>
- 
+
     <div id="lightbox" class="lightbox-overlay">
         <div class="lightbox-contenido">
             <button class="lightbox-cerrar" id="lightbox-cerrar" aria-label="Cerrar">
@@ -99,20 +96,12 @@ Index · HTML
             </div>
         </div>
     </div>
- 
+
     <a href="https://wa.me/595975846445" target="_blank" rel="noopener" class="whatsapp-flotante" aria-label="Escribinos por WhatsApp">
         <i class="fab fa-whatsapp"></i>
     </a>
- 
-    <a href="#" id="btn-arriba" class="arriba-flotante" aria-label="Volver arriba">
-        <i class="fas fa-arrow-up"></i>
-    </a>
- 
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
- 
-
-
-

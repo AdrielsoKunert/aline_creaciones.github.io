@@ -1,25 +1,133 @@
 [
   {
+    "id": 70,
+    "image": "fotos/Cajita de rosas eternas + chocolate y peluchito.jpeg",
+    "alt": "Cajita de rosas eternas + chocolate y peluchito",
+    "name": "Cajita de rosas eternas + chocolate y peluchito",
+    "price": "₲ 150.000",
+    "price_value": 150000,
+    "description": "Cajita de rosas eternas + chocolate y peluchito",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 68,
+    "image": "fotos/Cajita de girasol más chocolate.jpeg",
+    "alt": "Cajita de girasol más chocolate",
+    "name": "Cajita de girasol más chocolate",
+    "price": "₲ 150.000",
+    "price_value": 150000,
+    "description": "Cajita de girasol más chocolate",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 69,
+    "image": "fotos/CajitaRomantica flores amarillamas chocolate.jpeg",
+    "alt": "Cajita Romantica Flores Amarillas + Chocolate",
+    "name": "Cajita Romantica Flores Amarillas + Chocolate",
+    "price": "₲ 150.000",
+    "price_value": 150000,
+    "description": "Cajita Romantica de Flores Amarilla \r\n4 - Lirios\r\n1 - Tulipan\r\n1 - Chocolate",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 71,
+    "image": "fotos/WhatsApp Image 2026-09-05 at 00.04.17.jpeg",
+    "alt": "Cajita romántica de lirios + girasol 🌻",
+    "name": "Cajita romántica de lirios + girasol 🌻",
+    "price": "₲ 85.000",
+    "price_value": 85000,
+    "description": "Cajita romántica\r\n2 - Lirios\r\n1 - Girasol",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 66,
+    "image": "fotos/girasol+rosas.jpeg",
+    "alt": "Bouquet Flores Amarilla",
+    "name": "Bouquet Flores Amarilla",
+    "price": "₲ 95.000",
+    "price_value": 95000,
+    "description": "Bouquet de Flores Amarillas\r\n1 Girasol \r\n5 rosas Eterna",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 67,
+    "image": "fotos/girasol+lirio.jpeg",
+    "alt": "Bouquet Flores Amarilla",
+    "name": "Bouquet Flores Amarilla",
+    "price": "₲ 120.000",
+    "price_value": 120000,
+    "description": "Bouquet Flores Amarilla\r\n1 Girasol\r\n4 Lirios",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 72,
+    "image": "fotos/Cajita romántica de girasol+rosas eternas.jpeg",
+    "alt": "Cajita romántica de girasol + Rosas eternas",
+    "name": "Cajita romántica de girasol + Rosas eternas",
+    "price": "₲ 65.000",
+    "price_value": 65000,
+    "description": "Cajita romántica de \r\n1- Girasol\r\n3 - Rosas eternas",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 73,
+    "image": "fotos/Ramito Individual.jpeg",
+    "alt": "Girasol Individual",
+    "name": "Girasol Individual",
+    "price": "₲ 35.000",
+    "price_value": 35000,
+    "description": "Ramito de Girasol Individual\r\n1 - Girasol",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "image": "fotos/gs_006.jpeg",
+    "alt": "Ramos de girasol",
+    "name": "Ramos de girasol",
+    "price": "₲ 85.000",
+    "description": "3 Girasol chico +dedicatoria",
+    "whatsapp": "https://wa.me/595975846445",
+    "id": 6,
+    "price_value": 85000,
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 57,
+    "image": "fotos/WhatsApp Image 2026-08-06 at 21.46.10.jpeg",
+    "alt": "ramito de lirio",
+    "name": "ramito de lirio",
+    "price": "₲ 25.000",
+    "price_value": 25000,
+    "description": "ramito de lirio individual \r\napartir de 6 unidades te sale a 15.000 gs cada",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "individuales",
+    "disponible": true
+  },
+  {
     "image": "fotos/gs_003.jpeg",
     "alt": "Girasol grande",
     "name": "Girasol grande",
     "price": "₲ 48.500",
-    "description": "1 girasol grande+mini margaritas\nincluye una dedicatoria",
+    "description": "1 girasol grande+mini margaritas\r\nincluye una dedicatoria",
     "whatsapp": "https://wa.me/595975846445",
     "id": 2,
     "price_value": 48500,
-    "category": "girasoles",
-    "disponible": true
-  },
-  {
-    "image": "fotos/gs_001.jpeg",
-    "alt": "Girasol chico",
-    "name": "Girasol chico",
-    "price": "₲ 35.000",
-    "description": "1 girasol chico\nincluye una dedicatoria",
-    "whatsapp": "https://wa.me/595975846445",
-    "id": 3,
-    "price_value": 35000,
     "category": "girasoles",
     "disponible": true
   },
@@ -44,18 +152,6 @@
     "whatsapp": "https://wa.me/595975846445",
     "id": 5,
     "price_value": 35000,
-    "category": "girasoles",
-    "disponible": true
-  },
-  {
-    "image": "fotos/gs_006.jpeg",
-    "alt": "Ramos de girasol",
-    "name": "Ramos de girasol",
-    "price": "₲ 85.000",
-    "description": "3 Girasol chico +dedicatoria",
-    "whatsapp": "https://wa.me/595975846445",
-    "id": 6,
-    "price_value": 85000,
     "category": "girasoles",
     "disponible": true
   },
@@ -572,7 +668,7 @@
     "price_value": 48500,
     "description": "Girasol grande \r\napartir de 6 unidad te sale a 35000 gs cada",
     "whatsapp": "https://wa.me/595975846445",
-    "category": "girasoles",
+    "category": "amarillas",
     "disponible": true
   },
   {
@@ -584,7 +680,7 @@
     "price_value": 48500,
     "description": "girasol amarillo \r\nincluye dedicatoria",
     "whatsapp": "https://wa.me/595975846445",
-    "category": "girasoles",
+    "category": "amarillas",
     "disponible": true
   },
   {
@@ -650,18 +746,6 @@
   {
     "id": 56,
     "image": "fotos/WhatsApp Image 2026-08-06 at 21.46.11.jpeg",
-    "alt": "ramito de lirio",
-    "name": "ramito de lirio",
-    "price": "₲ 25.000",
-    "price_value": 25000,
-    "description": "ramito de lirio individual \r\napartir de 6 unidades te sale a 15.000 gs cada",
-    "whatsapp": "https://wa.me/595975846445",
-    "category": "individuales",
-    "disponible": true
-  },
-  {
-    "id": 57,
-    "image": "fotos/WhatsApp Image 2026-08-06 at 21.46.10.jpeg",
     "alt": "ramito de lirio",
     "name": "ramito de lirio",
     "price": "₲ 25.000",
@@ -740,7 +824,7 @@
     "price_value": 165000,
     "description": "bonzai de cerezo con maceta",
     "whatsapp": "https://wa.me/595975846445",
-    "category": "otros",
+    "category": "bonsai",
     "disponible": true
   },
   {
@@ -752,7 +836,7 @@
     "price_value": 165000,
     "description": "bonzai de cerezo con maceta",
     "whatsapp": "https://wa.me/595975846445",
-    "category": "otros",
+    "category": "bonsai",
     "disponible": true
   },
   {
@@ -764,20 +848,103 @@
     "price_value": 165000,
     "description": "rosa del desierto artesanal (eterno)\r\nincluye maceta",
     "whatsapp": "https://wa.me/595975846445",
+    "category": "bonsai",
+    "disponible": true
+  },
+  {
+    "id": 74,
+    "image": "fotos/Ramito de lirio individual.jpeg",
+    "alt": "Ramito de lirio individual",
+    "name": "Ramito de lirio individual",
+    "price": "₲ 25.000",
+    "price_value": 25000,
+    "description": "Ramito de lirio individual",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 75,
+    "image": "fotos/Ramito con tres rosas eternas.jpeg",
+    "alt": "Ramito con tres rosas eternas",
+    "name": "Ramito con tres rosas eternas",
+    "price": "₲ 45.000",
+    "price_value": 45000,
+    "description": "Ramito con tres rosas eternas",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 76,
+    "image": "fotos/Ramito con tres rosas eternas2.jpeg",
+    "alt": "Ramito con tres rosas eternas",
+    "name": "Ramito con tres rosas eternas",
+    "price": "₲ 45.000",
+    "price_value": 45000,
+    "description": "Ramito con tres rosas eternas",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 77,
+    "image": "fotos/Rosa Amarilla Individual.jpeg",
+    "alt": "Rosa Eterna Amarilla Individual",
+    "name": "Rosa Eterna Amarilla Individual",
+    "price": "₲ 15.000",
+    "price_value": 15000,
+    "description": "",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 78,
+    "image": "fotos/WhatsApp Image 2026-09-05 at 00.29.22.jpeg",
+    "alt": "Ramiro con tres rosas eternas",
+    "name": "Ramiro con tres rosas eternas",
+    "price": "₲ 45.000",
+    "price_value": 45000,
+    "description": "Ramiro con tres rosas eternas",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 79,
+    "image": "fotos/Ramos de corazón con 9 rosas eternas.jpeg",
+    "alt": "Ramos de corazón con 9 rosas eternas",
+    "name": "Ramos de corazón con 9 rosas eternas",
+    "price": "₲ 95.000",
+    "price_value": 95000,
+    "description": "Ramos de corazón con 9 rosas eternas",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "corazones",
+    "disponible": true
+  },
+  {
+    "id": 80,
+    "image": "fotos/WhatsApp Image 2026-09-05 at 00.39.11.jpeg",
+    "alt": "Ramo de Tulipán",
+    "name": "Ramo de Tulipán",
+    "price": "₲ 135.000",
+    "price_value": 135000,
+    "description": "Ramo de Tulipanes",
+    "whatsapp": "https://wa.me/595975846445",
     "category": "otros",
     "disponible": true
   },
-  
   {
-    "image": "fotos/gs_002.jpeg",
-    "alt": "Girasol Grande",
-    "name": "Girasol Grande",
-    "price": "₲ 48.500",
-    "description": "1 Girasol grande+mini margaritas\nincluye una dedicatoria",
+    "id": 81,
+    "image": "fotos/Bouquet premiun.jpeg",
+    "alt": "Bouquet premiun",
+    "name": "Bouquet premiun",
+    "price": "₲ 250.000",
+    "price_value": 250000,
+    "description": "Bouquet premiun",
     "whatsapp": "https://wa.me/595975846445",
-    "id": 50,
-    "price_value": 48500,
-    "category": "girasoles",
+    "category": "bouquets",
     "disponible": true
   }
 ]

@@ -296,34 +296,3 @@ h1, h2, h5 { font-family: 'Playfair Display', serif; }
     transform: scale(1.08);
     color: white;
 }
-
-/* ---- Botón flotante "Volver arriba" (aparece al scrollear) ---- */
-.arriba-flotante {
-    position: fixed;
-    bottom: 90px;
-    right: 22px;
-    background: var(--oscuro);
-    color: white;
-    width: 46px;
-    height: 46px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.2rem;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.25);
-    z-index: 999;
-    opacity: 0;
-    transform: translateY(10px);
-    pointer-events: none;
-    transition: opacity 0.25s, transform 0.25s, background 0.25s;
-}
-.arriba-flotante.visible {
-    opacity: 1;
-    transform: translateY(0);
-    pointer-events: auto;
-}
-.arriba-flotante:hover {
-    background: var(--rosa-principal);
-    color: white;
-}
