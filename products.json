@@ -25,7 +25,7 @@
   },
   {
     "id": 69,
-    "image": "fotos/CajitaRomantica flores amarillamas chocolate.jpeg",
+    "image": "fotos/WhatsApp Image 2026-09-05 at 01.02.15.jpeg",
     "alt": "Cajita Romantica Flores Amarillas + Chocolate",
     "name": "Cajita Romantica Flores Amarillas + Chocolate",
     "price": "₲ 150.000",
@@ -50,11 +50,11 @@
   {
     "id": 66,
     "image": "fotos/girasol+rosas.jpeg",
-    "alt": "Bouquet Flores Amarilla",
-    "name": "Bouquet Flores Amarilla",
+    "alt": "Ramos Flores Amarilla",
+    "name": "Ramos Flores Amarilla",
     "price": "₲ 95.000",
     "price_value": 95000,
-    "description": "Bouquet de Flores Amarillas\r\n1 Girasol \r\n5 rosas Eterna",
+    "description": "Ramos de Flores Amarillas\r\n1 Girasol \r\n5 rosas Eterna",
     "whatsapp": "https://wa.me/595975846445",
     "category": "amarillas",
     "disponible": true
@@ -62,11 +62,11 @@
   {
     "id": 67,
     "image": "fotos/girasol+lirio.jpeg",
-    "alt": "Bouquet Flores Amarilla",
-    "name": "Bouquet Flores Amarilla",
+    "alt": "Ramo Flores Amarilla",
+    "name": "Ramo Flores Amarilla",
     "price": "₲ 120.000",
     "price_value": 120000,
-    "description": "Bouquet Flores Amarilla\r\n1 Girasol\r\n4 Lirios",
+    "description": "Ramo Flores Amarilla\r\n1 Girasol\r\n4 Lirios",
     "whatsapp": "https://wa.me/595975846445",
     "category": "amarillas",
     "disponible": true
