@@ -946,5 +946,29 @@
     "whatsapp": "https://wa.me/595975846445",
     "category": "bouquets",
     "disponible": true
+  },
+  {
+    "id": 82,
+    "image": "fotos/WhatsApp Image 2026-09-06 at 23.39.13.jpeg",
+    "alt": "Ramos de rosas amarillas",
+    "name": "Ramos de rosas amarillas",
+    "price": "₲ 65.000",
+    "price_value": 65000,
+    "description": "Ramos de rosas amarillas",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 83,
+    "image": "fotos/WhatsApp Image 2026-09-06 at 23.39.13.jpeg",
+    "alt": "Ramos de rosas amarillas",
+    "name": "Ramos de rosas amarillas",
+    "price": "₲ 65.000",
+    "price_value": 65000,
+    "description": "Ramos de rosas amarillas",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
   }
 ]
