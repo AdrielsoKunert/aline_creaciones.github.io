@@ -970,5 +970,41 @@
     "whatsapp": "https://wa.me/595975846445",
     "category": "amarillas",
     "disponible": true
+  },
+  {
+    "id": 84,
+    "image": "fotos/WhatsApp Image 2026-09-11 at 19.00.03.jpeg",
+    "alt": "Ramos de 12 rosas amarillas con peluche",
+    "name": "Ramos de 12 rosas amarillas con peluche",
+    "price": "₲ 200.000",
+    "price_value": 200000,
+    "description": "Ramos de 12 rosas amarillas con peluche",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 85,
+    "image": "fotos/WhatsApp Image 2026-09-11 at 19.02.54.jpeg",
+    "alt": "Ramos con 12 rosas amarillas más peluche",
+    "name": "Ramos con 12 rosas amarillas más peluche",
+    "price": "₲ 185.000",
+    "price_value": 185000,
+    "description": "Ramos con 12 rosas amarillas más peluche",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "amarillas",
+    "disponible": true
+  },
+  {
+    "id": 86,
+    "image": "fotos/WhatsApp Image 2026-09-11 at 19.07.28.jpeg",
+    "alt": "Ramos de tulipanes con birrete",
+    "name": "Ramos de tulipanes con birrete",
+    "price": "₲ 135.000",
+    "price_value": 135000,
+    "description": "Ramos de tulipanes con birrete especial para graduación",
+    "whatsapp": "https://wa.me/595975846445",
+    "category": "otros",
+    "disponible": true
   }
 ]
