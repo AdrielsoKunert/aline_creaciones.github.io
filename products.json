@@ -99,11 +99,11 @@
     "image": "fotos/gs_006.jpeg",
     "alt": "Ramos de girasol",
     "name": "Ramos de girasol",
-    "price": "₲ 85.000",
+    "price": "₲ 95.000",
     "description": "3 Girasol chico +dedicatoria",
     "whatsapp": "https://wa.me/595975846445",
     "id": 6,
-    "price_value": 85000,
+    "price_value": 95000,
     "category": "amarillas",
     "disponible": true
   },
@@ -152,18 +152,6 @@
     "whatsapp": "https://wa.me/595975846445",
     "id": 5,
     "price_value": 35000,
-    "category": "girasoles",
-    "disponible": true
-  },
-  {
-    "image": "fotos/gs_007.jpeg",
-    "alt": "Ramos de girasol",
-    "name": "Ramos de girasol",
-    "price": "₲ 85.000",
-    "description": "2 girasoles+mini margaritas+abejita\nincluye 1 dedicatoria",
-    "whatsapp": "https://wa.me/595975846445",
-    "id": 7,
-    "price_value": 85000,
     "category": "girasoles",
     "disponible": true
   },
